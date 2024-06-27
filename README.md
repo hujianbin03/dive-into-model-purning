@@ -10,7 +10,7 @@ readme in each directory to learn and execute the code.
 ***
 ## Prerequisites
 - python >= 3.5
-- pytorch==0.4.0
+- torch==2.1.0
 
 You can install required packages by:
 
